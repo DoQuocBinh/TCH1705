@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "jdPGhVFXGKHyCi9hqG1Xb7qOsWMnJ9yx+kvGD8h4TjXKeRNeISTg1takCtYLG1DOkGdkWYvWuAEmNGCeAeOqRw==",
+  "dgSpecHash": "O1Dg7K0RJGeXQGi4cENSNK2pwnQGLbqKA8Lit4aCcnX7oLSkI5YKIjOeynJKbh043MqELLBWagRUARabzRIuaA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Do Quoc Binh\\source\\repos\\ClassLibraryProjects\\ShowCase\\ShowCase.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Do Quoc Binh\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

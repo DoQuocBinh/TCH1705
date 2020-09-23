@@ -2,6 +2,7 @@
 
 namespace StringLibrary
 {
+
     public static class StringLibrary
     {
         public static bool StartsWithUpper(this string str)
